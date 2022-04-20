@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "name":"radhika",
+            "address":"mumbai",
+            "website":"Masai-School"
+        },
+        {
+            "name":"salima",
+            "address":"delhii",
+            "website":"Masai-School"
+        },
+        {
+            "name":"rahul",
+            "address":"mumbai",
+            "website":"Masai-School"
+        },
+        {
+            "name":"radhika",
+            "address":"mumbai",
+            "website":"Masai-School"
+        },
+        {
+            "name":"salima",
+            "address":"delhii",
+            "website":"Masai-School"
+        },
+        {
+            "name":"rahul",
+            "address":"mumbai",
+            "website":"Masai-School"
+        }
+    ]
+}
